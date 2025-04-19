@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:30}" host="maizinode11.maizizen.bid" id="df178afd-7cc2-4ea1-b8a4-73040d55f9fa" keyPath="G:\My Drive\owncloud\isiklik\mining\zencash nodes\maizinode11.ppk" port="22" nameFormat="DESCRIPTIVE" username="maizi" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

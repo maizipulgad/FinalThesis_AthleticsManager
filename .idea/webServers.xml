@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f40db1ba-61e6-4cdd-8d12-5ba3ea46bd63" name="maizinode11" url="http://maizinode11.maizizen.bid">
+        <fileTransfer rootFolder="/home/maizi/ekjl" accessType="SFTP" host="maizinode11.maizizen.bid" port="22" sshConfigId="df178afd-7cc2-4ea1-b8a4-73040d55f9fa" sshConfig="maizi@maizinode11.maizizen.bid:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
